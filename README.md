@@ -28,7 +28,7 @@ Welcome to **Weather Time**, a sophisticated and user-friendly weather forecasti
 
 > Insert GIFs here to demonstrate the app's dynamic features and animations.
 
-![Feature GIF](https://seanblake.info/i/projects/weather_time/animation.gif)
+<p align="center"><img src="https://seanblake.info/i/projects/weather_time/animation.gif" alt="screenshot gif" width="300"></p>
 
 ## Getting Started 🚀
 
