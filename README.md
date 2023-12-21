@@ -36,8 +36,8 @@ To get started with Weather Time, clone the repo and follow these steps:
 git clone https://github.com/seanB888/Weather-Time.git
 
 # Navigate to the project directory
-cd Weather-Time
+Open Weather-Time in Xcode
 
-# Install dependencies (if any)
-# Run the app
+# Install the package using Xcode's Package Manager (https://github.com/Wouter125/BottomSheet.git)https://github.com/Wouter125/BottomSheet.git
+
 
