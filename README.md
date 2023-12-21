@@ -4,9 +4,9 @@ Welcome to **Weather Time**, a sophisticated and user-friendly weather forecasti
 
 ## Features 🌟
 
-- **Real-Time Weather Updates:** Stay ahead with live weather conditions.
-- **Detailed Forecasts:** Access hourly and weekly forecasts tailored to your location.
-- **Interactive Widgets:** Enhance your home screen with dynamic weather widgets.
+- **Weather:** See the different weather conditions.
+- **Detailed Forecasts:** Access hourly and weekly forecasts tailored for different locations.
+- **Interactive Widgets:** The home screen is Enhanced with various weather widgets.
 - **Elegant UI:** Navigate through a clean and intuitive interface.
 - **Customizable Views:** Tailor the app to show the information most relevant to you.
 - **BottomSheet** Utilized this Github repository from![Wouter125](https://github.com/Wouter125/BottomSheet) to create the `bottomsheet`.
