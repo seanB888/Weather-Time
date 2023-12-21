@@ -24,7 +24,7 @@ Welcome to **Weather Time**, a sophisticated and user-friendly weather forecasti
 
 ## GIFs 🎞️
 
-<p><img src="https://seanblake.info/i/projects/weather_time/animation.gif"></p>
+<img src="https://seanblake.info/i/projects/weather_time/animation.gif">
 
 ## Getting Started 🚀
 
