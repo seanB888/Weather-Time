@@ -22,7 +22,7 @@ Welcome to **Weather Time**, a sophisticated and user-friendly weather forecasti
 
 > Add screenshots here to visually showcase the app.
 
-![Screenshot 1](https://seanblake.info/i/projects/weather_time/screenshot1.png)
+![Screenshot 1](<img src="https://seanblake.info/i/projects/weather_time/screenshot1.png" alt="screenshot 1" width="800">)
 ![Screenshot 2](https://seanblake.info/i/projects/weather_time/screenshot2.png)
 ![Screenshot 3](https://seanblake.info/i/projects/weather_time/screenshot3.png)
 
