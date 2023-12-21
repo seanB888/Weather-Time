@@ -40,6 +40,6 @@ Open Weather-Time in Xcode
 
 # Install BottomSheet [if it didn't come in]
 Use Xcode Package Manager "https://github.com/Wouter125/BottomSheet.git"
-GitHub page --> ![BottomSheet](https://github.com/Wouter125/BottomSheet.git) You can read up on how to use it.
+![BottomSheet](https://github.com/Wouter125/BottomSheet.git)
 
 
