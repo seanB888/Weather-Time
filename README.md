@@ -22,14 +22,15 @@ Welcome to **Weather Time**, a sophisticated and user-friendly weather forecasti
 
 > Add screenshots here to visually showcase the app.
 
-![Screenshot 1](link-to-screenshot)
-![Screenshot 2](link-to-screenshot)
+![Screenshot 1](https://seanblake.info/i/projects/weather_time/screenshot1.png)
+![Screenshot 2](https://seanblake.info/i/projects/weather_time/screenshot2.png)
+![Screenshot 3](https://seanblake.info/i/projects/weather_time/screenshot3.png)
 
 ## GIFs 🎞️
 
 > Insert GIFs here to demonstrate the app's dynamic features and animations.
 
-![Feature GIF](link-to-gif)
+![Feature GIF](https://seanblake.info/i/projects/weather_time/animation.gif)
 
 ## Getting Started 🚀
 
