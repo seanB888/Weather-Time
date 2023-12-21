@@ -31,7 +31,7 @@ Welcome to **Weather Time**, a sophisticated and user-friendly weather forecasti
 
 To get started with Weather Time, clone the repo and follow these steps:
 
-```bash
+`
 # Clone the repository
 git clone https://github.com/seanB888/Weather-Time.git
 
@@ -40,7 +40,7 @@ Open Weather-Time in Xcode
 
 # Install BottomSheet [if it didn't come in]
 Use Xcode Package Manager "https://github.com/Wouter125/BottomSheet.git"
-```
+`
 ![BottomSheet](https://github.com/Wouter125/BottomSheet.git)
 
 
