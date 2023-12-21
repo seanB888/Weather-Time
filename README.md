@@ -9,7 +9,7 @@ Welcome to **Weather Time**, a sophisticated and user-friendly weather forecasti
 - **Interactive Widgets:** Enhance your home screen with dynamic weather widgets.
 - **Elegant UI:** Navigate through a clean and intuitive interface.
 - **Customizable Views:** Tailor the app to show the information most relevant to you.
-- **BottomSheet** Utilized this Github repository from ![Wouter125](https://github.com/Wouter125/BottomSheet) to create the `bottomsheet`.
+- **BottomSheet** Utilized this Github repository from![Wouter125](https://github.com/Wouter125/BottomSheet) to create the `bottomsheet`.
 
 ## Built With 🛠️
 
@@ -38,6 +38,8 @@ git clone https://github.com/seanB888/Weather-Time.git
 # Navigate to the project directory
 Open Weather-Time in Xcode
 
-# Install the package using Xcode's Package Manager "https://github.com/Wouter125/BottomSheet.git"
+# Install BottomSheet [if it didn't come in]
+Use Xcode's Package Manager "https://github.com/Wouter125/BottomSheet.git"
+GitHub page --> ![BottomSheet](https://github.com/Wouter125/BottomSheet.git) You can read up on how to use it.
 
 
