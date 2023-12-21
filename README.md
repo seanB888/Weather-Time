@@ -38,6 +38,6 @@ git clone https://github.com/seanB888/Weather-Time.git
 # Navigate to the project directory
 Open Weather-Time in Xcode
 
-# Install the package using Xcode's Package Manager (https://github.com/Wouter125/BottomSheet.git)https://github.com/Wouter125/BottomSheet.git
+# Install the package using Xcode's Package Manager "https://github.com/Wouter125/BottomSheet.git"
 
 
