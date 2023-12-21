@@ -20,8 +20,6 @@ Welcome to **Weather Time**, a sophisticated and user-friendly weather forecasti
 
 ## Screenshots 📸
 
-> Add screenshots here to visually showcase the app.
-
 <p align="center"><img src="https://seanblake.info/i/projects/weather_time/screenshot1.png" alt="screenshot 1" width="300">&nbsp;<img src="https://seanblake.info/i/projects/weather_time/screenshot2.png" alt="screenshot 2" width="300">&nbsp;<img src="https://seanblake.info/i/projects/weather_time/screenshot3.png" alt="screenshot 3" width="300"></p>
 
 ## GIFs 🎞️
