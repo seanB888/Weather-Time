@@ -9,6 +9,7 @@ Welcome to **Weather Time**, a sophisticated and user-friendly weather forecasti
 - **Interactive Widgets:** Enhance your home screen with dynamic weather widgets.
 - **Elegant UI:** Navigate through a clean and intuitive interface.
 - **Customizable Views:** Tailor the app to show the information most relevant to you.
+- **BottomSheet** Utilized this Github repository from ![Wouter125](https://github.com/Wouter125/BottomSheet) to create the `bottomsheet`.
 
 ## Built With 🛠️
 
